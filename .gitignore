@@ -1,0 +1,11 @@
+# OAuth credentials
+token.json
+credentials.json
+
+# Custom label dictionary
+label_dict.json
+
+# Python cache files
+__pycache__/
+*.pyc
+credentials
